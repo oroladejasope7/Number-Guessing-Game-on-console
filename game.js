@@ -8,7 +8,7 @@ function range(min, max) {
 }
 range();
 let generatedNumber = range(1, 2);
-console.log("A number has been generated. Guess the generated number correctly to up your level!");
+console.log("A number has been generated. Guess the generated number correctly to up your level!😊");
 
 let guessNumber = prompt("Guess the generated number? ")
 console.log(guessNumber);
